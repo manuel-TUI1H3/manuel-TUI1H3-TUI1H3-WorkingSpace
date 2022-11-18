@@ -1,6 +1,0 @@
-Test line 1
-Test line 2 from remote repository
-Test line 3 update
-
-Test line 4
-Test line 5
